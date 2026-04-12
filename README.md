@@ -1,4 +1,3 @@
-flutter_hava_durumu_app
 Flutter ile hazırlanmış bir "Hava Durumu" Uygulaması.
 
 Getting Started
